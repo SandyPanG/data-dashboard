@@ -251,6 +251,15 @@ main section div > div#jedis-var{
 	padding: 2em;
 }
 
+<<<<<<< HEAD
+=======
+.btnInac {
+	margin-top: 3em;
+    margin-left: 2em;
+}
+
+
+>>>>>>> upstream/master
 /*---------------MODAL-------------------*/
 
 .modal {
